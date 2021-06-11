@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>devConfig</key>
+	<dict>
+		<key>httpHost</key>
+		<string>http://laravel-api.php7.dev.qi-e.tv</string>
+		<key>socketHost</key>
+		<string>test://</string>
+	</dict>
+	<key>preConfig</key>
+	<dict>
+		<key>httpHost</key>
+		<string>http://p7.new.qie.tv</string>
+		<key>socketHost</key>
+		<string>online://</string>
+	</dict>
+	<key>onlineConfig</key>
+	<dict>
+		<key>httpHost</key>
+		<string>https://p7api.qiecdn.com</string>
+		<key>socketHost</key>
+		<string>online://</string>
+	</dict>
+</dict>
+</plist>
